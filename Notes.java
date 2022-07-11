@@ -10,9 +10,7 @@ public class Notes {
 		System.out.println("Rentrez 3 notes");
 		Scanner sc= new Scanner(System.in);
 		int note1 = sc.nextInt();
-		Scanner sc2= new Scanner(System.in);
 		int note2 = sc.nextInt();
-		Scanner sc3= new Scanner(System.in);
 		int note3 = sc.nextInt();
 		
 		int note4 = note1 + note2 + note3;
